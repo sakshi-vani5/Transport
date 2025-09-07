@@ -1,0 +1,51 @@
+{
+   "choose_language": "మీ భాషను ఎంచుకోండి",
+  "confirm": "నిర్ధారించండి",
+  "language_note": "తరువాత మీరు భాషను మార్చవచ్చు",
+
+  "company_details": "కంపెనీ వివరాలు",
+  "company_name": "కంపెనీ పేరు",
+  "company_location": "కంపెనీ స్థానం",
+  "upload_logo": "లోగోని అప్లోడ్ చేయండి",
+  "company_type": "కంపెనీ రకం (ప్రైవేట్, పబ్లిక్ మొదలైనవి)",
+  "contact_number": "సంప్రదింపు సంఖ్య",
+
+  "contact_details": "సంప్రదింపు వివరాలు",
+  "person_contact": "వ్యక్తి సంప్రదింపు సంఖ్య",
+  "designation": "హోదా",
+  "upload_photo": "ఫోటోను అప్లోడ్ చేయండి",
+  "email": "ఇమెయిల్",
+
+  "vehicle_details": "వాహన వివరాలు",
+  "vehicle_no": "వాహన సంఖ్య",
+  "vehicle_image": "వాహన చిత్రం",
+  "vehicle_name": "వాహన పేరు",
+  "vehicle_reg_no": "వాహన నమోదింపు సంఖ్య",
+  "vehicle_reg_image": "నమోదు చిత్రం అప్లోడ్ చేయండి",
+  "vehicle_expiry": "వాహన గడువు తేది",
+
+  "insurance_no": "వీమా సంఖ్య",
+  "insurance_image": "వీమా చిత్రం అప్లోడ్ చేయండి",
+  "insurance_expiry": "వీమా గడువు తేది",
+
+  "driver_details": "డ్రైవర్ వివరాలు",
+  "driver_name": "డ్రైవర్ పేరు",
+  "driver_image": "డ్రైవర్ చిత్రం",
+  "driver_address": "డ్రైవర్ చిరునామా",
+  "license_no": "లైసెన్స్ సంఖ్య",
+  "license_image": "లైసెన్స్ చిత్రం",
+  "license_expiry": "లైసెన్స్ గడువు తేది",
+
+  "submit": "సమర్పించు",
+
+  "find_transport_solution": "మీ వ్యాపారానికి సరైన రవాణా పరిష్కారాన్ని కనుగొనండి",
+  "select_profile": "మీకు సరిపోయే ప్రొఫైల్‌ని ఎన్నుకోండి",
+  "manufacturer_trader": "తయారీదారు/వ్యాపാരി",
+  "post_transportation": "మీ రవాణా అవసరాలను పోస్ట్ చేయండి మరియు అనుకూల సూచనలను పొందండి.",
+  "transport_provider": "రవాణా పరిరక్షకుడు",
+  "receive_offers": "యోగ్యమైన దాతల నుండి వ్యక్తిగత ఆఫర్‌లు అందుకోండి",
+  "provider": "దాత",
+   "congratulations": "శుభాకాంక్షలు!",
+  "success_message": "మీరు విజయవంతంగా\nమీ అప్లికేషన్‌ను నమోదుచేశారు",
+  "login": "లాగిన్"
+}

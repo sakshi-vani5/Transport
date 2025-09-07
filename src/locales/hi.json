@@ -1,0 +1,50 @@
+{
+  "confirm": "पुष्टि करें",
+  "choose_language": "अपनी पसंदीदा भाषा चुनें",
+ 
+  "find_transport_solution": "अपने व्यवसाय के लिए उपयुक्त परिवहन समाधान खोजें",
+  "select_profile": "ऐसी प्रोफ़ाइल चुनें जो आपके लिए सबसे उपयुक्त हो",
+  "manufacturer_trader": "निर्माता/व्यापारी",
+  "post_transportation": "अपनी परिवहन आवश्यकताओं को पोस्ट करें और कस्टम प्रस्ताव प्राप्त करें।",
+  "transport_provider": "परिवहन प्रदाता",
+  "receive_offers": "योग्य प्रदाताओं से व्यक्तिगत ऑफ़र प्राप्त करें",
+  "provider": "प्रदाता",
+   "language_note": "आप बाद में भाषा बदल सकते हैं",
+  "company_details": "कंपनी विवरण",
+  "company_name": "कंपनी का नाम",
+  "company_location": "कंपनी का स्थान",
+  "upload_logo": "लोगो अपलोड करें",
+  "company_type": "कंपनी प्रकार (प्राइवेट, पब्लिक आदि)",
+  "contact_number": "संपर्क नंबर",
+  "contact_details": "संपर्क विवरण",
+  "person_name": "व्यक्ति का नाम",
+  "designation": "पद",
+  "upload_photo": "फोटो अपलोड करें",
+  "email": "ईमेल",
+   "vehicle_details": "वाहन विवरण",
+  "vehicle_no": "वाहन संख्या",
+  "vehicle_image": "वाहन की छवि",
+  "vehicle_name": "वाहन का नाम",
+  "vehicle_reg_no": "पंजीकरण संख्या",
+  "vehicle_reg_image": "पंजीकरण छवि",
+  "vehicle_expiry": "वाहन की समाप्ति तिथि",
+
+  "insurance_no": "बीमा संख्या",
+  "insurance_image": "वाहन बीमा छवि",
+  "insurance_expiry": "बीमा समाप्ति तिथि",
+
+  "driver_details": "ड्राइवर विवरण",
+  "driver_name": "ड्राइवर का नाम",
+  "driver_image": "ड्राइवर की छवि",
+  "driver_address": "ड्राइवर का पता",
+  "license_no": "लाइसेंस संख्या",
+  "license_image": "लाइसेंस छवि",
+  "license_expiry": "लाइसेंस समाप्ति तिथि",
+  "submit": "जमा करें",
+"congratulations": "बधाई हो!",
+  "registration_success": "आपने सफलतापूर्वक\nअपना पंजीकरण पूरा कर लिया है",
+  "login": "लॉगिन करें"
+
+
+
+}

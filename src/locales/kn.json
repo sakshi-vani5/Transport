@@ -1,0 +1,51 @@
+{
+   "choose_language": "ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "confirm": "ಉರಿ ಮಾಡಿ",
+  "language_note": "ನಂತರ ನೀವು ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಬಹುದು",
+
+  "company_details": "ಕಂಪನಿಯ ವಿವರಗಳು",
+  "company_name": "ಕಂಪನಿಯ ಹೆಸರು",
+  "company_location": "ಕಂಪನಿಯ ಸ್ಥಳ",
+  "upload_logo": "ಲಾಗೋ ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+  "company_type": "ಕಂಪನಿ ಪ್ರಕಾರ (ಖಾಸಗಿ, ಸಾರ್ವಜನಿಕ ಇತ್ಯಾದಿ)",
+  "contact_number": "ಸಂಪರ್ಕ ಸಂಖ್ಯೆ",
+
+  "contact_details": "ಸಂಪರ್ಕ ವಿವರಗಳು",
+  "person_contact": "ವ್ಯಕ್ತಿಯ ಸಂಪರ್ಕ ಸಂಖ್ಯೆ",
+  "designation": "ಹುದ್ದೆ",
+  "upload_photo": "ಫೋಟೋ ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+  "email": "ಇಮೇಲ್",
+
+  "vehicle_details": "ವಾಹನ ವಿವರಗಳು",
+  "vehicle_no": "ವಾಹನ ಸಂಖ್ಯೆ",
+  "vehicle_image": "ವಾಹನ ಚಿತ್ರ",
+  "vehicle_name": "ವಾಹನ ಹೆಸರು",
+  "vehicle_reg_no": "ವಾಹನ ನೋಂದಣಿ ಸಂಖ್ಯೆ",
+  "vehicle_reg_image": "ನೋಂದಣಿ ಚಿತ್ರ ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+  "vehicle_expiry": "ವಾಹನ ಅವಧಿ ಸಮಾಪ್ತಿ ದಿನಾಂಕ",
+
+  "insurance_no": "ವಿಮೆ ಸಂಖ್ಯೆ",
+  "insurance_image": "ವಿಮೆ ಚಿತ್ರ ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+  "insurance_expiry": "ವಿಮೆ ಅವಧಿ ದಿನಾಂಕ",
+
+  "driver_details": "ಡ್ರೈವರ್ ವಿವರಗಳು",
+  "driver_name": "ಡ್ರೈವರ್ ಹೆಸರು",
+  "driver_image": "ಡ್ರೈವರ್ ಚಿತ್ರ",
+  "driver_address": "ಡ್ರೈವರ್ ವಿಳಾಸ",
+  "license_no": "ಲೈಸೆನ್ಸ್ ಸಂಖ್ಯೆ",
+  "license_image": "ಲೈಸೆನ್ಸ್ ಚಿತ್ರ",
+  "license_expiry": "ಲೈಸೆನ್ಸ್ ಅವಧಿ ದಿನಾಂಕ",
+
+  "submit": "ಸಲ್ಲಿಸುವುದ",
+
+  "find_transport_solution": "ನಿಮ್ಮ ಉದ್ಯಮಕ್ಕೆ ಸೂಕ್ತವಾದ ಸಾರಿಗೆ ಪರಿಹಾರವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ",
+  "select_profile": "ನಿಮ್ಮಿಗೆ ಸೂಕ್ತವಿರುವ ಪ್ರೊಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ",
+  "manufacturer_trader": "ಉತ್ಪಾದಕ/ವ್ಯಾಪಾರಿ",
+  "post_transportation": "ನಿಮ್ಮ ಸಾರಿಗೆ ಅಗತ್ಯಗಳನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿ ಮತ್ತು ಕಸ್ಟಮ್ ಪ್ರಸ್ತಾವಿಗಳನ್ನು ಪಡೆಯಿರಿ.",
+  "transport_provider": "ಸಾರಿಗೆ ಒದಗಿಸುವವರು",
+  "receive_offers": "ಅರ್ಹತಾ ಹೊಂದಿದ ಒದಗಿಸುವವರಿಂದ ಧರೆಗೆ ಆಫರ್‌ಗಳನ್ನು ಪಡೆಯಿರಿ",
+  "provider": " ಒದಗಿಸುವವರು",
+  "congratulations": "ಅಭಿನಂದನೆಗಳು!",
+  "success_message": "ನೀವು ಯಶಸ್ವಿಯಾಗಿ\nನಿಮ್ಮ ಅನ್ವಯವನ್ನು ನೋಂದಾಯಿಸಿದ್ದೀರಿ",
+  "login": "ಲಾಗಿನ್"
+}
